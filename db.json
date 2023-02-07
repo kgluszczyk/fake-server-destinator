@@ -1,0 +1,245 @@
+{
+  "destinations": [
+    {
+      "id": 0,
+      "name": "Isle of Skye",
+      "country": "Scotland",
+      "description": "The Isle of Skye, connected to Scotland's northwest coast by bridge, is known for its rugged landscapes, picturesque fishing villages and medieval castles.",
+      "image": "https://bit.ly/i-f-k",
+      "type": "ADVENTURE"
+    },
+    {
+      "id": 1,
+      "name": "Edinborough",
+      "country": "Scotland",
+      "description": "Edinburgh is Scotland's compact, hilly capital.",
+      "image": "https://bit.ly/d-edin",
+      "type": "LEISURE"
+    },
+    {
+      "id": 2,
+      "name": "Glasgow",
+      "country": "Scotland",
+      "description": "Glasgow is a port city on the River Clyde in Scotland's western Lowlands.",
+      "image": "https://bit.ly/k-gl",
+      "type": "LEISURE"
+    },
+    {
+      "id": 3,
+      "name": "Mestia",
+      "country": "Georgia",
+      "description": "Mestia is a highland townlet in northwest Georgia, at an elevation of 1,500 metres in the Caucasus Mountains.",
+      "image": "https://bit.ly/d-mest",
+      "type": "ADVENTURE"
+    },
+    {
+      "id": 4,
+      "name": "Stepansminda",
+      "country": "Georgia",
+      "description": "Stepantsminda, is a townlet in the Mtskheta-Mtianeti region of north-eastern Georgia.",
+      "image": "https://bit.ly/d-step",
+      "type": "ADVENTURE"
+    },
+    {
+      "id": 5,
+      "name": "Tibilisi",
+      "country": "Georgia",
+      "description": "Tbilisi is the capital of the country of Georgia.",
+      "image": "https://bit.ly/2X7e3Xo",
+      "type": "ADVENTURE"
+    },
+    {
+      "id": 6,
+      "name": "Vardzia",
+      "country": "Georgia",
+      "description": "Vardzia is a cave monastery site in southern Georgia.",
+      "image": "https://bit.ly/d-var",
+      "type": "ADVENTURE"
+    },
+    {
+      "id": 7,
+      "name": "Zugdidi",
+      "country": "Georgia",
+      "description": "Zugdidi is a city in the Western Georgian historical province of Samegrelo.",
+      "image": "https://bit.ly/d-zug",
+      "type": "ADVENTURE"
+    },
+    {
+      "id": 8,
+      "name": "Kutaisi",
+      "country": "Georgia",
+      "description": "Kutaisi is a city in west Georgia. It's home to the centuries-old Bagrati Cathedral.",
+      "image": "https://bit.ly/d-kut",
+      "type": "ADVENTURE"
+    },
+    {
+      "id": 9,
+      "name": "Ananuri",
+      "country": "Georgia",
+      "description": "Ananuri is a castle complex on the Aragvi River in Georgia, about 45 miles from Tbilisi.",
+      "image": "https://bit.ly/d-anan",
+      "type": "ADVENTURE"
+    },
+    {
+      "id": 10,
+      "name": "Anaklia",
+      "country": "Georgia",
+      "description": "Anaklia is a town and seaside resort in western Georgia.",
+      "image": "https://bit.ly/d-anak",
+      "type": "ADVENTURE"
+    },
+    {
+      "id": 11,
+      "name": "Prague",
+      "country": "Czech Republic",
+      "description": "Prague, capital city of the Czech Republic, is bisected by the Vltava River.",
+      "image": "https://bit.ly/d-prague",
+      "type": "CULTURAL"
+    },
+    {
+      "id": 12,
+      "name": "Lisbon",
+      "country": "Portugal",
+      "description": "Lisbon is Portugal’s hilly, coastal capital city.",
+      "image": "https://bit.ly/d-lisbon",
+      "type": "CULTURAL"
+    },
+    {
+      "id": 13,
+      "name": "Lübeck",
+      "country": "Germany",
+      "description": "Lübeck is a northern German city distinguished by Brick Gothic architecture, which dates to its time as the medieval capital of the Hanseatic League, a powerful trading confederation.",
+      "image": "https://bit.ly/d-lubeck",
+      "type": "SIGHTSEEING"
+    },
+    {
+      "id": 14,
+      "name": "Schwerin",
+      "country": "Germany",
+      "description": "Schwerin is the capital and second-largest city of the northeastern German state of Mecklenburg-Vorpommern.",
+      "image": "https://bit.ly/d-schwer",
+      "type": "SIGHTSEEING"
+    },
+    {
+      "id": 15,
+      "name": "Dresden",
+      "country": "Germany",
+      "description": "Dresden, capital of the eastern German state of Saxony, is distinguished by the celebrated art museums and classic architecture of its reconstructed old town.",
+      "image": "https://bit.ly/d-dresden",
+      "type": "SIGHTSEEING"
+    },
+    {
+      "id": 16,
+      "name": "Liverpool",
+      "country": "Great Brittan",
+      "description": "Liverpool is a maritime city in northwest England, where the River Mersey meets the Irish Sea.",
+      "image": "https://bit.ly/d-liver",
+      "type": "SIGHTSEEING"
+    },
+    {
+      "id": 17,
+      "name": "Manchester",
+      "country": "Great Brittan",
+      "description": "Manchester is a major city in the northwest of England with a rich industrial heritage.",
+      "image": "https://bit.ly/d-mach",
+      "type": "SIGHTSEEING"
+    },
+    {
+      "id": 18,
+      "name": "London",
+      "country": "Great Brittan",
+      "description": "DescriptionLondon, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times.",
+      "image": "https://bit.ly/d-lon",
+      "type": "SIGHTSEEING"
+    },
+    {
+      "id": 19,
+      "name": "Leeds",
+      "country": "Great Brittan",
+      "description": "Manchester is a major city in the northwest of England with a rich industrial heritage.",
+      "image": "https://bit.ly/d-leeds",
+      "type": "SIGHTSEEING"
+    },
+    {
+      "id": 20,
+      "name": "Kufstein",
+      "country": "Austria",
+      "description": "Kufstein is a town in the western Austrian province of Tyrol.",
+      "image": "https://bit.ly/d-kuf",
+      "type": "SIGHTSEEING"
+    },
+    {
+      "id": 21,
+      "name": "Wałbrzych",
+      "country": "Poland",
+      "description": "Wałbrzych is a city in Lower Silesian Voivodeship in southwestern Poland. From 1975–1998 it was the capital of Wałbrzych Voivodeship; it is now the seat of Wałbrzych County.",
+      "image": "https://bit.ly/d-walb",
+      "type": "CITY-BREAK"
+
+    },
+    {
+      "id": 22,
+      "name": "Wrocław",
+      "country": "Poland",
+      "description": "Wrocław is a city on the Oder River in western Poland. It’s known for its Market Square, lined with elegant townhouses and featuring a modern fountain.",
+      "image": "https://bit.ly/d-wro",
+      "type": "CITY"
+    },
+    {
+      "id": 23,
+      "name": "Poznań",
+      "country": "Poland",
+      "description": "Poznań is a city on the Warta River in western Poland.",
+      "image": "https://bit.ly/d-poz2",
+      "type": "CITY"
+    },
+    {
+      "id": 24,
+      "name": "Piła",
+      "country": "Poland",
+      "description": "Piła is a town in northwestern Poland situated in the Greater Poland Voivodeship, previously capital of Piła Voivodeship.",
+      "image": "https://bit.ly/d-pila3",
+      "type": "CITY"
+    },
+    {
+      "id": 25,
+      "name": "Łódź",
+      "country": "Poland",
+      "description": "Łódź is a city in central Poland, known as a former textile-manufacturing hub.",
+      "image": "https://bit.ly/d-lodz",
+      "type": "CITY"
+    },
+    {
+      "id": 26,
+      "name": "Kraków",
+      "country": "Poland",
+      "description": "Kraków, a southern Poland city near the border of the Czech Republic, is known for its well-preserved medieval core and Jewish quarter.",
+      "image": "https://bit.ly/d-kra",
+      "type": "CITY"
+    },
+    {
+      "id": 27,
+      "name": "Gdańsk",
+      "country": "Poland",
+      "description": "Gdańsk (Danzig in German) is a port city on the Baltic coast of Poland.",
+      "image": "https://bit.ly/d-gda",
+      "type": "CITY"
+    },
+    {
+      "id": 28,
+      "name": "Sieradów Zdrój",
+      "country": "Poland",
+      "description": "Świeradów-Zdrój is a spa town in Lubań County, Lower Silesian Voivodeship, in south-western Poland near the border with the Czech Republic.",
+      "image": "https://bit.ly/d-swier2",
+      "type": "LEISURE"
+    },
+    {
+      "id": 29,
+      "name": "Katowice",
+      "country": "Poland",
+      "description": "Katowice is a city in southern Poland.",
+      "image": "https://bi.im-g.pl/im/b6/53/17/z24459958V,Katowice--centrum-miasta.jpg",
+      "type": "CITY"
+    }
+  ]
+}
